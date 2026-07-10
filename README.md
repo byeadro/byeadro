@@ -187,9 +187,7 @@ Claude + Claude Code, Vertex AI, n8n, and a self-hosted Ollama stack on a Hostin
 
 ## <samp>`> mwi.latest()`</samp>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- Auto-populated from Substack. Runs daily. -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- **[Stop Recruiting. Start Mentoring. The Talent Will Follow.](https://iambond.substack.com/p/stop-recruiting-start-mentoring-the)**<br/><sub>Embra Mentors connects law students with real attorneys. One to one. No feed. No bots. No algorithm. Just real relationships that last an entire law school journey.</sub><br/><br/>- **[Stop Recruiting. Start Mentoring. The Talent Will Follow.](https://medium.com/@adrianmbond/stop-recruiting-start-mentoring-the-talent-will-follow-3f8d1a2111be?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/>- **[Don’t Call Me a Vibe Coder. I’m a Developer.](https://ai.plainenglish.io/dont-call-me-a-vibe-coder-i-m-a-developer-993d4126971a?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/>- **[A’s and F’s Were Never the Full Picture. That’s Why I’m Building Embra.](https://medium.com/@adrianmbond/as-and-f-s-were-never-the-full-picture-that-s-why-i-m-building-embra-b337d7963128?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/>- **[The Man in the Screen](https://iambond.substack.com/p/the-man-in-the-screen)**<br/><sub>--- The Man in the Screen A 1934 poem rewrote for every founder who&#39;s ever closed their laptop and wondered if any of it matters. ---</sub><br/><br/><!-- BLOG-POST-LIST:END -->
 
 Full archive at **[substack.com/@iambond](https://substack.com/@iambond)** and **[medium.com/@iambond](https://medium.com/@iambond)**.
 
