@@ -1,0 +1,270 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#0d0d0d"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="light-glow" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#FFCC66" stop-opacity="1"/>
+      <stop offset="20%" stop-color="#FFCC66" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#FF6600" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#FF6600" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .name { font-family: 'Courier New', monospace; font-weight: 900; letter-spacing: -0.05em; }
+      .tag { font-family: 'Courier New', monospace; font-weight: 700; }
+      .cursor { animation: blink 1.2s steps(2) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+
+      .avatar { animation: walkloop 15s ease-in-out infinite; }
+      @keyframes walkloop {
+        0% { transform: translateX(-180px); }
+        30% { transform: translateX(470px); }
+        65% { transform: translateX(470px); }
+        100% { transform: translateX(1280px); }
+      }
+
+      .bob { animation: bobcycle 0.7s ease-in-out infinite; }
+      @keyframes bobcycle { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+
+      .leg-front { animation: legf 0.7s ease-in-out infinite; transform-origin: 0 0; transform-box: fill-box; }
+      .leg-back { animation: legb 0.7s ease-in-out infinite; transform-origin: 0 0; transform-box: fill-box; }
+      @keyframes legf { 0%,100% { transform: rotate(-25deg); } 50% { transform: rotate(25deg); } }
+      @keyframes legb { 0%,100% { transform: rotate(25deg); } 50% { transform: rotate(-25deg); } }
+
+      .arm-back { animation: armb 0.7s ease-in-out infinite; transform-origin: 0 0; transform-box: fill-box; }
+      @keyframes armb { 0%,100% { transform: rotate(25deg); } 50% { transform: rotate(-25deg); } }
+
+      .arm-front-swing { animation: armfsw 0.7s ease-in-out infinite; transform-origin: 0 0; transform-box: fill-box; }
+      @keyframes armfsw { 0%,100% { transform: rotate(-25deg); } 50% { transform: rotate(25deg); } }
+
+      .arm-front-position { animation: armfpos 15s linear infinite; transform-origin: 0 0; transform-box: fill-box; }
+      @keyframes armfpos {
+        0%, 32% { transform: rotate(0deg); }
+        35% { transform: rotate(-135deg); }
+        36% { transform: rotate(-150deg); }
+        37% { transform: rotate(-135deg); }
+        40% { transform: rotate(0deg); }
+        100% { transform: rotate(0deg); }
+      }
+
+      .pullchain { animation: chainpull 15s linear infinite; }
+      @keyframes chainpull {
+        0%, 35% { transform: translateY(0); }
+        36% { transform: translateY(10px); }
+        37% { transform: translateY(0); }
+        100% { transform: translateY(0); }
+      }
+
+      .ceiling-chain-swing { animation: chainswing 4s ease-in-out infinite; transform-origin: 600px 0; transform-box: view-box; }
+      @keyframes chainswing { 0%,100% { transform: rotate(-0.6deg); } 50% { transform: rotate(0.6deg); } }
+
+      .rays { opacity: 0; animation: raysglow 15s ease-in-out infinite; transform-origin: 600px 110px; transform-box: view-box; }
+      @keyframes raysglow {
+        0%, 36% { opacity: 0; transform: scale(0.85); }
+        37% { opacity: 1; transform: scale(1.1); }
+        40% { opacity: 0.9; transform: scale(1); }
+        92% { opacity: 0.9; transform: scale(1); }
+        95% { opacity: 0; transform: scale(0.85); }
+        100% { opacity: 0; transform: scale(0.85); }
+      }
+
+      .ray-lines { opacity: 0; animation: rayspulse 15s ease-in-out infinite; }
+      @keyframes rayspulse {
+        0%, 36% { opacity: 0; }
+        37% { opacity: 1; }
+        92% { opacity: 1; }
+        95% { opacity: 0; }
+        100% { opacity: 0; }
+      }
+
+      .bulb-glass { fill: #2a2a2a; animation: bulbcolor 15s ease-in-out infinite; }
+      @keyframes bulbcolor {
+        0%, 36% { fill: #2a2a2a; }
+        37% { fill: #FFCC66; }
+        92% { fill: #FFCC66; }
+        95% { fill: #2a2a2a; }
+        100% { fill: #2a2a2a; }
+      }
+
+      .filament { opacity: 0; animation: filamentglow 15s ease-in-out infinite; }
+      @keyframes filamentglow {
+        0%, 36% { opacity: 0; }
+        37% { opacity: 1; }
+        92% { opacity: 1; }
+        95% { opacity: 0; }
+        100% { opacity: 0; }
+      }
+
+      .ab-text { animation: abillumine 15s ease-in-out infinite; }
+      @keyframes abillumine {
+        0%, 36% { fill-opacity: 0.08; }
+        37% { fill-opacity: 1; }
+        92% { fill-opacity: 1; }
+        95% { fill-opacity: 0.08; }
+        100% { fill-opacity: 0.08; }
+      }
+      .ab-stroke { animation: absillumine 15s ease-in-out infinite; }
+      @keyframes absillumine {
+        0%, 36% { stroke-opacity: 0.2; }
+        37% { stroke-opacity: 1; }
+        92% { stroke-opacity: 1; }
+        95% { stroke-opacity: 0.2; }
+        100% { stroke-opacity: 0.2; }
+      }
+
+      .bubble { animation: bubbleop 15s ease-in-out infinite; }
+      @keyframes bubbleop {
+        0%, 30% { opacity: 1; }
+        34% { opacity: 0; }
+        100% { opacity: 0; }
+      }
+
+      .grid line { stroke: #FF6600; stroke-opacity: 0.06; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <g class="grid">
+    <line x1="0" y1="80" x2="1200" y2="80"/>
+    <line x1="0" y1="160" x2="1200" y2="160"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="200" y1="0" x2="200" y2="320"/>
+    <line x1="400" y1="0" x2="400" y2="320"/>
+    <line x1="600" y1="0" x2="600" y2="320"/>
+    <line x1="800" y1="0" x2="800" y2="320"/>
+    <line x1="1000" y1="0" x2="1000" y2="320"/>
+  </g>
+
+  <g transform="translate(60, 40)">
+    <text x="0" y="0" class="tag" font-size="13" fill="#FF6600">ab@byeadro</text>
+    <text x="100" y="0" class="tag" font-size="13" fill="#666">:</text>
+    <text x="107" y="0" class="tag" font-size="13" fill="#FF6600">~</text>
+    <text x="114" y="0" class="tag" font-size="13" fill="#666">$</text>
+    <text x="126" y="0" class="tag" font-size="13" fill="#ffffff">./ab.exe</text>
+    <text x="188" y="0" class="tag cursor" font-size="13" fill="#FF6600">▮</text>
+  </g>
+
+  <text x="600" y="245" text-anchor="middle" class="name ab-text" font-size="200" fill="#FF6600" fill-opacity="0.08">AB</text>
+  <text x="600" y="245" text-anchor="middle" class="name ab-stroke" font-size="200" fill="none" stroke="#FF6600" stroke-opacity="0.2" stroke-width="2">AB</text>
+
+  <g class="ceiling-chain-swing">
+    <line x1="600" y1="0" x2="600" y2="92" stroke="#555" stroke-width="1.5"/>
+    <circle class="rays" cx="600" cy="110" r="120" fill="url(#light-glow)"/>
+    <g class="ray-lines" stroke="#FFCC66" stroke-width="2" stroke-linecap="round">
+      <line x1="600" y1="98" x2="600" y2="78"/>
+      <line x1="588" y1="102" x2="576" y2="86"/>
+      <line x1="612" y1="102" x2="624" y2="86"/>
+      <line x1="583" y1="112" x2="562" y2="112"/>
+      <line x1="617" y1="112" x2="638" y2="112"/>
+      <line x1="588" y1="122" x2="576" y2="138"/>
+      <line x1="612" y1="122" x2="624" y2="138"/>
+      <line x1="595" y1="128" x2="590" y2="148"/>
+      <line x1="605" y1="128" x2="610" y2="148"/>
+    </g>
+    <ellipse class="bulb-glass" cx="600" cy="112" rx="13" ry="16"/>
+    <path class="filament" d="M 594 111 Q 597 116, 600 111 Q 603 116, 606 111" stroke="#FF6600" stroke-width="1.3" fill="none"/>
+    <rect x="594" y="122" width="12" height="6" fill="#555"/>
+    <rect x="595" y="128" width="10" height="3" fill="#444"/>
+    <g class="pullchain">
+      <line x1="600" y1="131" x2="600" y2="163" stroke="#666" stroke-width="1"/>
+      <circle cx="600" cy="166" r="3" fill="#888"/>
+    </g>
+  </g>
+
+  <g class="avatar">
+    <g class="bubble">
+      <path d="M 25 25 Q 20 15, 30 10 L 130 10 Q 140 15, 135 25 L 135 40 Q 135 47, 128 47 L 85 47 L 78 55 L 74 47 L 32 47 Q 25 47, 25 40 Z" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+      <clipPath id="bubbletext-clip">
+        <rect x="34" y="20" width="0" height="18">
+          <animate attributeName="width" values="0;70;70;70;0" keyTimes="0;0.18;0.3;0.32;0.35" dur="15s" repeatCount="indefinite" fill="freeze"/>
+        </rect>
+      </clipPath>
+      <text x="36" y="35" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#000" clip-path="url(#bubbletext-clip)">what's up</text>
+      <line x1="36" y1="24" x2="36" y2="42" stroke="#000" stroke-width="1.5">
+        <animate attributeName="x1" values="36;100;100;100;36" keyTimes="0;0.18;0.3;0.32;0.35" dur="15s" repeatCount="indefinite" fill="freeze"/>
+        <animate attributeName="x2" values="36;100;100;100;36" keyTimes="0;0.18;0.3;0.32;0.35" dur="15s" repeatCount="indefinite" fill="freeze"/>
+        <animate attributeName="opacity" values="1;1;0;1;0" keyTimes="0;0.18;0.19;0.3;0.31" dur="15s" repeatCount="indefinite"/>
+      </line>
+    </g>
+
+    <g transform="translate(0, 105)">
+      <g class="bob">
+        <ellipse cx="65" cy="185" rx="42" ry="5" fill="#000000" fill-opacity="0.6"/>
+
+        <g transform="translate(56, 120)">
+          <g class="leg-back">
+            <rect x="-6" y="0" width="12" height="55" rx="4" fill="#1a1a1a"/>
+            <path d="M -9 52 L 10 52 L 8 62 L -9 62 Z" fill="#000000"/>
+          </g>
+        </g>
+        <g transform="translate(74, 120)">
+          <g class="leg-front">
+            <rect x="-6" y="0" width="12" height="55" rx="4" fill="#0a0a0a"/>
+            <path d="M -9 52 L 10 52 L 8 62 L -9 62 Z" fill="#000000"/>
+          </g>
+        </g>
+
+        <path d="M 42 62 L 90 62 L 96 122 L 36 122 Z" fill="#FF6600"/>
+        <path d="M 42 62 L 90 62 L 90 70 L 42 70 Z" fill="#000000" fill-opacity="0.18"/>
+
+        <g transform="translate(45, 68)">
+          <g class="arm-back">
+            <rect x="-4" y="0" width="9" height="45" rx="3" fill="#FF6600"/>
+            <circle cx="0.5" cy="47" r="4.5" fill="#6D4C41"/>
+          </g>
+        </g>
+
+        <rect x="61" y="52" width="14" height="14" fill="#6D4C41"/>
+
+        <ellipse cx="68" cy="30" rx="22" ry="24" fill="#6D4C41"/>
+
+        <g fill="#0a0a0a">
+          <ellipse cx="68" cy="16" rx="22" ry="12"/>
+          <circle cx="48" cy="20" r="7"/>
+          <circle cx="54" cy="10" r="8"/>
+          <circle cx="64" cy="6" r="9"/>
+          <circle cx="74" cy="6" r="9"/>
+          <circle cx="84" cy="12" r="8"/>
+          <circle cx="88" cy="22" r="6"/>
+          <circle cx="46" cy="28" r="5"/>
+          <circle cx="58" cy="14" r="6"/>
+          <circle cx="70" cy="10" r="6"/>
+          <circle cx="80" cy="18" r="5"/>
+        </g>
+
+        <ellipse cx="60" cy="33" rx="2.2" ry="1.6" fill="#ffffff"/>
+        <circle cx="60" cy="33" r="1.3" fill="#000000"/>
+        <ellipse cx="76" cy="33" rx="2.2" ry="1.6" fill="#ffffff"/>
+        <circle cx="76" cy="33" r="1.3" fill="#000000"/>
+
+        <path d="M 66 38 Q 68 43, 70 38" stroke="#4A2C1A" stroke-width="1.2" fill="none"/>
+        <path d="M 64 47 Q 68 49, 72 47" stroke="#2a1108" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+
+        <g fill="#0a0a0a">
+          <path d="M 50 44 Q 48 52, 53 56 Q 58 58, 63 57 L 73 57 Q 78 58, 83 56 Q 88 52, 86 44 Q 86 50, 83 53 Q 76 56, 68 56 Q 60 56, 53 53 Q 50 50, 50 44 Z"/>
+          <circle cx="52" cy="46" r="3.5"/>
+          <circle cx="56" cy="52" r="4"/>
+          <circle cx="62" cy="55" r="4"/>
+          <circle cx="68" cy="56" r="4"/>
+          <circle cx="74" cy="55" r="4"/>
+          <circle cx="80" cy="52" r="4"/>
+          <circle cx="84" cy="46" r="3.5"/>
+        </g>
+
+        <g transform="translate(86, 68)">
+          <g class="arm-front-position">
+            <g class="arm-front-swing">
+              <rect x="-4" y="0" width="9" height="45" rx="3" fill="#FF6600"/>
+              <circle cx="0.5" cy="47" r="4.5" fill="#6D4C41"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <text x="1140" y="308" text-anchor="end" class="tag" font-size="11" fill="#333">made without instructions</text>
+</svg>

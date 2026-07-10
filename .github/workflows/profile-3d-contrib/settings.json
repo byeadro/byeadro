@@ -1,0 +1,15 @@
+{
+    "type": "custom",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#ffffff",
+    "strongColor": "#FF6600",
+    "weakColor": "#331408",
+    "growingAnimation": true,
+    "contribColors": [
+        "#161B22",
+        "#331408",
+        "#4d1e0c",
+        "#993d18",
+        "#FF6600"
+    ]
+}
