@@ -47,9 +47,7 @@ Status ........ Building in public
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FF6600&labelColor=000000)](https://www.linkedin.com/in/adrian-bond-87994b20a/)
 [![Substack](https://img.shields.io/badge/-Substack-000000?style=flat-square&logo=substack&logoColor=FF6600&labelColor=000000)](https://substack.com/@iambond)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=FF6600&labelColor=000000)](https://medium.com/@iambond)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=FF6600&labelColor=000000)](https://x.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=FF6600&labelColor=000000)](https://instagram.com/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=FF6600&labelColor=000000)](https://medium.com/@adrianmbond)
 [![Mail](https://img.shields.io/badge/-adrianbond%40myembra.com-000000?style=flat-square&logo=maildotru&logoColor=FF6600&labelColor=000000)](mailto:adrianbond@myembra.com)
 
 <br />
@@ -189,17 +187,9 @@ Claude + Claude Code, Vertex AI, n8n, and a self-hosted Ollama stack on a Hostin
 
 <!-- BLOG-POST-LIST:START -->- **[Stop Recruiting. Start Mentoring. The Talent Will Follow.](https://medium.com/@adrianmbond/stop-recruiting-start-mentoring-the-talent-will-follow-3f8d1a2111be?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/>- **[Don’t Call Me a Vibe Coder. I’m a Developer.](https://ai.plainenglish.io/dont-call-me-a-vibe-coder-i-m-a-developer-993d4126971a?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/>- **[A’s and F’s Were Never the Full Picture. That’s Why I’m Building Embra.](https://medium.com/@adrianmbond/as-and-f-s-were-never-the-full-picture-that-s-why-i-m-building-embra-b337d7963128?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/>- **[The Man in the Screen](https://medium.com/@adrianmbond/the-man-in-the-screen-78d8322969e2?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/>- **[“So How’s That Little Software Going?”](https://medium.com/@adrianmbond/so-hows-that-little-software-going-7f8a5c8791c9?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/><!-- BLOG-POST-LIST:END -->
 
-Full archive at **[substack.com/@iambond](https://substack.com/@iambond)** and **[medium.com/@iambond](https://medium.com/@iambond)**.
-
 ---
 
 <div align="center">
-
-**Say hi**
-
-[adrianbond@myembra.com](mailto:adrianbond@myembra.com) · [Substack](https://substack.com/@iambond) · [LinkedIn](https://www.linkedin.com/in/adrian-bond-87994b20a/)
-
-<br />
 
 <sub><i>Made without instructions.</i></sub>
 

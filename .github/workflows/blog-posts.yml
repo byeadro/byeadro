@@ -16,7 +16,7 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@adrianmbond,https://api.allorigins.win/raw?url=https%3A%2F%2Fiambond.substack.com%2Ffeed"
+          feed_list: "https://medium.com/feed/@adrianmbond"
           max_post_count: 5
           template: "- **[$title]($url)**<br/><sub>$description</sub><br/><br/>"
           disable_sort: false
