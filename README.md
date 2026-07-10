@@ -123,7 +123,7 @@ Status ........ Building in public
 <br />
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,swift,firebase,gcp,py,nodejs,postgres,notion,git&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,swift,firebase,gcp,py,nodejs,postgres,notion,git&theme=light&perline=6" />
 </a>
 </div>
 </details>
@@ -133,7 +133,7 @@ Status ........ Building in public
 <br />
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=anthropic,openai,langchain,ollama,pytorch,tensorflow,supabase,vercel&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=anthropic,openai,langchain,ollama,pytorch,tensorflow,supabase,vercel&theme=light&perline=8" />
 </a>
 <br />
 Claude + Claude Code, Vertex AI, n8n, and a self-hosted Ollama stack on a Hostinger VPS.
@@ -145,7 +145,7 @@ Claude + Claude Code, Vertex AI, n8n, and a self-hosted Ollama stack on a Hostin
 <br />
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,github,linux,bash,md,docker,homebrew&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,github,linux,bash,md,docker,homebrew&theme=light&perline=8" />
 </a>
 </div>
 </details>
