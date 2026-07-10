@@ -45,16 +45,16 @@ Status ........ Building in public
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FF6600&labelColor=000000)](https://www.linkedin.com/in/adrian-bond-87994b20a/)
-[![Substack](https://img.shields.io/badge/-Substack-000000?style=flat-square&logo=substack&logoColor=FF6600&labelColor=000000)](https://substack.com/@iambond)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=FF6600&labelColor=000000)](https://medium.com/@adrianmbond)
-[![Mail](https://img.shields.io/badge/-adrianbond%40myembra.com-000000?style=flat-square&logo=maildotru&logoColor=FF6600&labelColor=000000)](mailto:adrianbond@myembra.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6600?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=FF6600)](https://www.linkedin.com/in/adrian-bond-87994b20a/)
+[![Substack](https://img.shields.io/badge/-Substack-FF6600?style=flat-square&logo=substack&logoColor=ffffff&labelColor=FF6600)](https://substack.com/@iambond)
+[![Medium](https://img.shields.io/badge/-Medium-FF6600?style=flat-square&logo=medium&logoColor=ffffff&labelColor=FF6600)](https://medium.com/@adrianmbond)
+[![Mail](https://img.shields.io/badge/-adrianbond%40myembra.com-FF6600?style=flat-square&logo=maildotru&logoColor=ffffff&labelColor=FF6600)](mailto:adrianbond@myembra.com)
 
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=byeadro&color=FF6600&style=flat-square&label=views)
-![Followers](https://img.shields.io/github/followers/byeadro?style=flat-square&color=FF6600&labelColor=000000&label=followers)
-![Stars](https://img.shields.io/github/stars/byeadro?style=flat-square&color=FF6600&labelColor=000000&label=stars)
+![Followers](https://img.shields.io/github/followers/byeadro?style=flat-square&color=FF6600&labelColor=eaeef2&label=followers)
+![Stars](https://img.shields.io/github/stars/byeadro?style=flat-square&color=FF6600&labelColor=eaeef2&label=stars)
 
 </div>
 
@@ -64,13 +64,13 @@ Status ........ Building in public
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" />
-<img width="49%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
+<img width="49%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages by repo" />
+<img width="49%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" />
 
-<img width="49%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
-<img width="49%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
+<img width="49%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-summary-card-output/github/3-stats.svg" alt="Stats" />
+<img width="49%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-summary-card-output/github/4-productive-time.svg" alt="Productive time" />
 
-<img width="99%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+<img width="99%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
 
 </div>
 
@@ -80,11 +80,11 @@ Status ........ Building in public
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=byeadro&hide_border=true&background=0d1117&stroke=FF6600&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&dayNum=ffffff" />
+<img height="180" src="https://streak-stats.demolab.com?user=byeadro&hide_border=false&border=eaeef2&background=ffffff&stroke=FF6600&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideNums=333333&sideLabels=333333&dates=777777&currStreakNum=333333&dayNum=333333" />
 
 <br />
 
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=byeadro&bg_color=0d1117&color=FF6600&line=FF6600&point=ffffff&area=true&hide_border=true&custom_title=Commits%20over%20time" />
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=byeadro&bg_color=ffffff&color=333333&title_color=FF6600&line=FF6600&point=FF6600&area=true&area_color=FFCBA4&hide_border=false&border_color=eaeef2&custom_title=Commits%20over%20time" />
 
 </div>
 
