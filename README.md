@@ -105,7 +105,7 @@ Status ........ Building in public
 
 <div align="center">
 
-<img width="99%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-3d-contrib/profile-night-view.svg" alt="3D contributions" />
+<img width="99%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-3d-contrib/profile-customize.svg" alt="3D contributions" />
 
 </div>
 
