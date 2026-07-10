@@ -16,11 +16,7 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://iambond.substack.com/feed"
+          feed_list: "https://medium.com/feed/@adrianmbond,https://api.allorigins.win/raw?url=https%3A%2F%2Fiambond.substack.com%2Ffeed"
           max_post_count: 5
           template: "- **[$title]($url)**<br/><sub>$description</sub><br/><br/>"
           disable_sort: false
-          # Substack/Cloudflare returns 403 to GitHub's datacenter IPs with the
-          # default rss-parser UA. Send a real browser UA + Accept header to bypass.
-          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-          accept_header: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
