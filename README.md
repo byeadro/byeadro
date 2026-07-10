@@ -80,7 +80,6 @@ Status ........ Building in public
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=byeadro&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF6600&text_color=ffffff&icon_color=FF6600&include_all_commits=true&rank_icon=github" />
 <img height="180" src="https://streak-stats.demolab.com?user=byeadro&hide_border=true&background=0d1117&stroke=FF6600&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&dayNum=ffffff" />
 
 <br />
@@ -112,14 +111,6 @@ Status ........ Building in public
 <div align="center">
 
 <img width="99%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/github-metrics.svg" alt="Deep metrics" />
-
-</div>
-
-## <samp>`> trophies.list()`</samp>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=byeadro&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -163,23 +154,12 @@ Claude + Claude Code, Vertex AI, n8n, and a self-hosted Ollama stack on a Hostin
 
 ## <samp>`> repos.pinned()`</samp>
 
-<div align="center">
-
-<a href="https://github.com/byeadro/utility-bill-intelligence-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=byeadro&repo=utility-bill-intelligence-platform&hide_border=true&bg_color=0d1117&title_color=FF6600&text_color=ffffff&icon_color=FF6600" />
-</a>
-<a href="https://github.com/byeadro/cee">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=byeadro&repo=cee&hide_border=true&bg_color=0d1117&title_color=FF6600&text_color=ffffff&icon_color=FF6600" />
-</a>
-
-<a href="https://github.com/byeadro/embra-marketplace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=byeadro&repo=embra-marketplace&hide_border=true&bg_color=0d1117&title_color=FF6600&text_color=ffffff&icon_color=FF6600" />
-</a>
-<a href="https://github.com/byeadro/shipcheck">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=byeadro&repo=shipcheck&hide_border=true&bg_color=0d1117&title_color=FF6600&text_color=ffffff&icon_color=FF6600" />
-</a>
-
-</div>
+| Repo | What it is |
+| :-- | :-- |
+| **[cee](https://github.com/byeadro/cee)** | Claude Execution Engine. A deterministic Python pipeline that turns unstructured input into validated XML prompts for Claude. |
+| **[awesome-vibe-coding](https://github.com/byeadro/awesome-vibe-coding)** | Curated tools, prompts, and patterns for non-technical founders shipping real software with AI. |
+| **[Devlog](https://github.com/byeadro/Devlog)** | Personal journal and dev-log Chrome extension, backed by Firebase. |
+| **[Adrian-bond-portfolio](https://github.com/byeadro/Adrian-bond-portfolio)** | Portfolio site, built and shipped in public. |
 
 ---
 
