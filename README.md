@@ -31,11 +31,9 @@
 **`ab@github:~$`** whoami
 
 ```
-Founder ....... Embra & BxB
+Founder ....... Embra Law  & BxB
 Location ...... Little Rock, AR
 Focus ......... Shipping with AI
-Publishing .... Made Without Instructions
-Coffee ........ ∞
 Status ........ Building in public
 ```
 
@@ -73,66 +71,6 @@ Status ........ Building in public
 <img width="99%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
 
 </div>
-
----
-
-## <samp>`> streaks.now()`</samp>
-
-<div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com?user=byeadro&hide_border=false&border=eaeef2&background=ffffff&stroke=FF6600&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideNums=333333&sideLabels=333333&dates=777777&currStreakNum=333333&dayNum=333333" />
-
-<br />
-
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=byeadro&bg_color=ffffff&color=333333&title_color=FF6600&line=FF6600&point=FF6600&area=true&area_color=FFCBA4&hide_border=false&border_color=eaeef2&custom_title=Commits%20over%20time" />
-
-</div>
-
----
-
-## <samp>`> snake.run()`</samp>
-
-<div align="center">
-
-<img alt="Contribution snake" src="https://raw.githubusercontent.com/byeadro/byeadro/output/orange-snake.svg" />
-
-</div>
-
----
-
-## <samp>`> stack.list()`</samp>
-
-<details open>
-<summary><b>Everyday</b></summary>
-<br />
-<div align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,swift,firebase,gcp,py,nodejs,postgres,notion,git&theme=light&perline=6" />
-</a>
-</div>
-</details>
-
-<details>
-<summary><b>AI & automation</b></summary>
-<br />
-<div align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=anthropic,openai,langchain,ollama,pytorch,tensorflow,supabase,vercel&theme=light&perline=8" />
-</a>
-<br />
-Claude + Claude Code, Vertex AI, n8n, and a self-hosted Ollama stack on a Hostinger VPS.
-</div>
-</details>
-
-<details>
-<summary><b>Tools & environments</b></summary>
-<br />
-<div align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,github,linux,bash,md,docker,homebrew&theme=light&perline=8" />
-</a>
-</div>
-</details>
 
 ---
 
