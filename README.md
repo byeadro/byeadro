@@ -98,22 +98,6 @@ Status ........ Building in public
 
 </div>
 
-## <samp>`> render_3d()`</samp>
-
-<div align="center">
-
-<img width="99%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/profile-3d-contrib/profile-customize.svg" alt="3D contributions" />
-
-</div>
-
-## <samp>`> metrics.deep()`</samp>
-
-<div align="center">
-
-<img width="99%" src="https://raw.githubusercontent.com/byeadro/byeadro/main/github-metrics.svg" alt="Deep metrics" />
-
-</div>
-
 ---
 
 ## <samp>`> stack.list()`</samp>
@@ -149,23 +133,6 @@ Claude + Claude Code, Vertex AI, n8n, and a self-hosted Ollama stack on a Hostin
 </a>
 </div>
 </details>
-
----
-
-## <samp>`> repos.pinned()`</samp>
-
-| Repo | What it is |
-| :-- | :-- |
-| **[cee](https://github.com/byeadro/cee)** | Claude Execution Engine. A deterministic Python pipeline that turns unstructured input into validated XML prompts for Claude. |
-| **[awesome-vibe-coding](https://github.com/byeadro/awesome-vibe-coding)** | Curated tools, prompts, and patterns for non-technical founders shipping real software with AI. |
-| **[Devlog](https://github.com/byeadro/Devlog)** | Personal journal and dev-log Chrome extension, backed by Firebase. |
-| **[Adrian-bond-portfolio](https://github.com/byeadro/Adrian-bond-portfolio)** | Portfolio site, built and shipped in public. |
-
----
-
-## <samp>`> mwi.latest()`</samp>
-
-<!-- BLOG-POST-LIST:START -->- **[Stop Recruiting. Start Mentoring. The Talent Will Follow.](https://medium.com/@adrianmbond/stop-recruiting-start-mentoring-the-talent-will-follow-3f8d1a2111be?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/>- **[Don’t Call Me a Vibe Coder. I’m a Developer.](https://ai.plainenglish.io/dont-call-me-a-vibe-coder-i-m-a-developer-993d4126971a?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/>- **[A’s and F’s Were Never the Full Picture. That’s Why I’m Building Embra.](https://medium.com/@adrianmbond/as-and-f-s-were-never-the-full-picture-that-s-why-i-m-building-embra-b337d7963128?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/>- **[The Man in the Screen](https://medium.com/@adrianmbond/the-man-in-the-screen-78d8322969e2?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/>- **[“So How’s That Little Software Going?”](https://medium.com/@adrianmbond/so-hows-that-little-software-going-7f8a5c8791c9?source=rss-1489e6abf05e------2)**<br/><sub></sub><br/><br/><!-- BLOG-POST-LIST:END -->
 
 ---
 
